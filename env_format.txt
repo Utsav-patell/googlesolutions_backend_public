@@ -1,0 +1,15 @@
+# Server Related Stuff
+PORT = ""
+
+# SMTP Related Info
+EMAIL_USER_ID=""
+EMAIL_USER_PASSWORD=""
+
+# Secret Key and all
+JWT_SECRET = ""
+
+# DataBase and Cache
+MONGO_URI = ""
+REDIS_URL = ""
+REDIS_PASSWORD = ""
+REDIS_USERNAME = ""
